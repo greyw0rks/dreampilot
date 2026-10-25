@@ -2,6 +2,8 @@
 
 Automated perps trading, with rules you control.
 
+Repository: https://github.com/greyw0rks/dreampilot
+
 DreamPilot will connect traders to dreamDEX on Somnia Tokyo testnet, with one moving-average crossover strategy, deterministic risk checks and transparent execution. The current implementation is an integration spike: a real read-only Markets SDK probe. The terminal and automated execution are still to be built.
 
 ## Run the SDK proof

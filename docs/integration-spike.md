@@ -41,7 +41,7 @@ Only the first five interfaces are exercised by this project's read-only proof. 
 
 The first sandbox run failed DNS resolution; the approved run with network access passed. Dependencies installed with zero reported vulnerabilities and the script passed Node's syntax check.
 
-Only **Configure Somnia Tokyo testnet and official SDK** is checked in the MVP checklist. Account requirements, candle availability, order execution and exchange reconciliation still need verification. The code is local; it has not been published to GitHub and the ticket is unsent.
+**Configure Somnia Tokyo testnet and official SDK** and **Public GitHub repository** are checked in the MVP checklist. Account requirements, candle availability, order execution and exchange reconciliation still need verification. The project and SDK evidence are published at https://github.com/greyw0rks/dreampilot. The ticket is ready locally and remains unsent.
 
 ## Whitelist sequence
 

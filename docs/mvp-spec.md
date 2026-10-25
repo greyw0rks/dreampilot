@@ -6,7 +6,7 @@ dreamDEX Perps Builder Bounty · dreamDEX × Somnia · Somnia Tokyo testnet
 
 **Bounty:** https://dorahacks.io/navi?to=%2Fhackathon%2Fdreamdex-perps-bounty%2Fdetail
 
-**State:** Integration spike in progress. Read-only SDK proof passed on Tokyo/Hideki chain 50383, discovering 21 perps markets and checking on-chain collateral and pool health. Whitelist access, signing and testnet order execution remain unverified. Checklist: 1/29.
+**State:** Integration spike in progress. Read-only SDK proof passed on Tokyo/Hideki chain 50383, discovering 21 perps markets and checking on-chain collateral and pool health. Repository and proof published at https://github.com/greyw0rks/dreampilot. Whitelist access, signing and testnet order execution remain unverified. Checklist: 2/29.
 
 **Next action:** Build proof with the official Markets SDK/API first, then open a dreamDEX Discord ticket with the DoraHacks email and either a GitHub repository using the SDK/API or a transaction hash from code on Somnia Tokyo testnet. A verified testnet order remains the integration milestone. Confirm SDK methods, market data, order types and signing before implementing the adapter.
 
@@ -310,7 +310,7 @@ Do not claim a transaction hash for an operation represented only by an API orde
 
 ## 9. Complete MVP checklist
 
-**Launch readiness: 1/29.**
+**Launch readiness: 2/29.**
 
 ### Access and setup
 
@@ -352,7 +352,7 @@ Do not claim a transaction hash for an operation represented only by an API orde
 
 ### Bounty submission
 
-- [ ] Public GitHub repository.
+- [x] Public GitHub repository.
 - [ ] Complete README and setup guide.
 - [ ] Transaction or order evidence.
 - [ ] Demo recording.
