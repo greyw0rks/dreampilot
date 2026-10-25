@@ -1,0 +1,10 @@
+{
+  "name": "dreampilot",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Rule-based perpetuals terminal on dreamDEX; integration spike.",
+  "engines": { "node": ">=22" },
+  "scripts": { "proof:markets": "node scripts/prove-markets.mjs" },
+  "dependencies": { "@somnia-chain/markets-sdk": "0.32.1" }
+}
